@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">RFC GENERATOR</string>
+    <string name="rfc_generator">RFC GENERATOR</string>
     <string name="nombre">Nombre(S)</string>
     <string name="apellidoP">Apellido Paterno</string>
     <string name="apellidoM">Apellido Materno</string>
-    <string name="rfc_generator">RFC GENERATOR</string>
-    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="date">Fecha de Nacimiento</string>
 </resources>
